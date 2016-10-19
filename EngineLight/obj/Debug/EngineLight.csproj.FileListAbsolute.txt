@@ -1,0 +1,15 @@
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\EngineLight.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\EngineLight.pdb
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\Assembly-CSharp.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\UnityEngine.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\TrackIRUnity.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\UnityEngine.UI.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\KSPAssets.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\Mono.Cecil.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\TDx.TDxInput.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\Mono.Security.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\bin\Debug\UnityEngine.xml
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\obj\Debug\EngineLight.csprojResolveAssemblyReference.cache
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\obj\Debug\EngineLight.dll
+C:\Users\Reese Wilson\Downloads\KSP-EngineLight-master\KSP-EngineLight-master\EngineLight\obj\Debug\EngineLight.pdb
